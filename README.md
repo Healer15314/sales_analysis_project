@@ -17,4 +17,5 @@
   базу — `sales_db`
   логин и пароль — `default` и `password123`.
 
+4) Задачки по clickhouse были сделаны в DBVEABER, а сам он был запущен в docker
 
